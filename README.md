@@ -1,2 +1,2 @@
-# KycHub-Frontend-Assignment
+# Frontend Project
 This is react app
